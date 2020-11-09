@@ -1,5 +1,5 @@
 # Locale_ai interview
-## Data sience task
+## Data science task
 #
 ### **Problem Statement**
 
@@ -18,14 +18,14 @@ The explanatory [Jupyter Notebook](https://github.com/madhukumble/locale_ai/blob
 #
 ### **GeoSurge pricing strategy / Dynamic Pricing Model:**
 
-* The drivers are incentivized if they go to the location where the demand is very high. In that way both the drivers and the customer requiremants are satisfied
+* The drivers are incentivize if they go to the location where the demand is very high. In that way both the drivers and the customer requirements are satisfied
 * As more and more drivers arrives to the location where there's excess demand, the demand gradually reduces and the prices return to normal
 * Other than increasing the supply, increased fare will also results in decrease in the demand (Making the service run more smoother)
 * If the demand is low, offering promotions, discounts, coupons etc. helps to boost up demand. Hence, pricing would benefit the company.
 #
 ### **Points to note:**
 
-* Based on the requirement of riders/passenengers, they usually expect high supply. But drivers don't work at that time which results in low supply. Let's say drivers prefer not to drive at their current condition like late nights, bad weather, weekends or other personal reasons etc.
+* Based on the requirement of riders/passengers, they usually expect high supply. But drivers don't work at that time which results in low supply. Let's say drivers prefer not to drive at their current condition like late nights, bad weather, weekends or other personal reasons etc.
 * During most peak hours (eg: commuting to and from work), other modes of public transport are also jammed.
 * Number of cancelled rides could be because of improper supply like waiting for long period, cabs too far, delay in pickup etc.
 #
@@ -35,7 +35,8 @@ The explanatory [Jupyter Notebook](https://github.com/madhukumble/locale_ai/blob
 * Despite of cancelling rides, most of the people take a cab during weekends to travel from one location to another
 * Frequency of point to point travel is high, and the least is long distance.
 
-Therefore, the utilization rate of the cabs can be maximised by:
+Therefore, the utilization rate of the cabs can be maximized by:
 
 * Increasing the fare during office commute period, and during the weekends
 * Getting more cabs to do point to point and less on long distance and rental type of travel.
+  
