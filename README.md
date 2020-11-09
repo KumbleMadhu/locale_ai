@@ -14,7 +14,7 @@ reduce cancellation, increase revenue or reduce costs.
 #
 ### **Code Implementation**
 
-The explanatory [Jupyter Notebook](https://github.com/madhukumble/locale_ai) shows the data analyses along with visualizations (EDA).
+The explanatory [Jupyter Notebook](https://github.com/madhukumble/locale_ai/blob/main/localeai_interview_task.ipynb) shows the data analyses along with visualizations (EDA).
 #
 ### **GeoSurge pricing strategy / Dynamic Pricing Model:**
 
